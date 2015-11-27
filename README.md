@@ -1,5 +1,5 @@
 # isdruption
-Searching twitter accounts for keywords with pygoogle.
+Searches twitter accounts for keywords with pygoogle.
 
 # DEPENDENCIES:
 * You need pygoogle, grab it from here and install it:
